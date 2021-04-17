@@ -1,0 +1,8 @@
+<xml>
+<model name="Box2Resized.egg">
+<modelsection>box</modelsection>
+<modelsection>engineTop</modelsection>
+<modelsection>engineLeft</modelsection>
+<modelsection>engineRight</modelsection>
+</model>
+</xml>
